@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+nav{
+	background-color:black;
+	color:white;
+	display:flex;
+	justify-content:space-between;
+}
+a{
+	margin-left:60px;
+}
